@@ -34,7 +34,7 @@ The research paper for this project is available at: [Machine Learning enabled m
 
 ## Contributing
 
-Contributions are welcome. We welcome contributions to the Youtube Views Predictor project. Please read our [CONTRIBUTING.md](https://github.com/VanditGupta/EventBuzz/blob/vandit/Contributing.MD) for guidelines on how to contribute.
+Contributions are welcome. We welcome contributions to the Youtube Views Predictor project. Please read our [CONTRIBUTING.md](https://github.com/VanditGupta/Youtube-Views-Prediction/blob/main/CONTRIBUTING.md) for guidelines on how to contribute.
 
 ## License
 
