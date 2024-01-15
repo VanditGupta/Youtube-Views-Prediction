@@ -31,6 +31,10 @@ To getting up and running the Dataset_Creation.ipynb file you have to download U
 
 The research paper for this project is available at: [Machine Learning enabled models for YouTube Ranking Mechanism and Views Prediction](https://arxiv.org/abs/2211.11528)
 
+## UI Screenshot
+
+![UI Screenshot](https://github.com/VanditGupta/Youtube-Views-Prediction/blob/main/img/UI.png)
+
 
 ## Contributing
 
