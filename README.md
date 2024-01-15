@@ -19,7 +19,7 @@ In here datasets are used from: [Kaggle](https://www.kaggle.com/datasnaek/youtub
 ## Technical Stack
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Framework:** MobileNet, TensorFlow.js
+- **Framework:** TensorFlow, Keras
 - **Preprocessing and Model Training:** Python, Pandas, NumPy, Matplotlib, using IBM Watson for advanced machine learning capabilities
 - **Prediction Engine:** IBM Watson for generating accurate and reliable video view predictions
 
