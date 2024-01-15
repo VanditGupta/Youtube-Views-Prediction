@@ -20,12 +20,12 @@ In here datasets are used from: [Kaggle](https://www.kaggle.com/datasnaek/youtub
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Framework:** MobileNet, TensorFlow.js
-- **Preprocessing:** Python, Pandas, NumPy, Matplotlib, Matplotlib
+- **Preprocessing and Model Training:** Python, Pandas, NumPy, Matplotlib, using IBM Watson for advanced machine learning capabilities
+- **Prediction Engine:** IBM Watson for generating accurate and reliable video view predictions
 
 ## Running the Application
 
 To getting up and running the Dataset_Creation.ipynb file you have to download USVideos.csv file from [USVideos.csv](https://www.kaggle.com/datasnaek/youtube-new?select=USvideos.csv) and add it to the datasets folder.
-
 
 ## Research Paper
 
@@ -34,7 +34,6 @@ The research paper for this project is available at: [Machine Learning enabled m
 ## UI Screenshot
 
 ![UI Screenshot](https://github.com/VanditGupta/Youtube-Views-Prediction/blob/main/img/UI.png)
-
 
 ## Contributing
 
@@ -52,4 +51,3 @@ This project is licensed under the [MIT LICENSE](https://opensource.org/license/
 ## Contact
 
 For any inquiries or contributions, please contact us at [gupta.vandi@northeastern.edu](mailto:gupta.vandi@northeastern.edu) or [akshitdiwan05@gmail.com](mailto:akshitdiwan05@gmail.com) or [arpit.arpit.jain5@gmail.com](mailto:arpit.jain5@gmail.com)
-
