@@ -45,9 +45,9 @@ This project is licensed under the [MIT LICENSE](https://opensource.org/license/
 
 ## Acknowledgements
 
-- Our team: Vandit Gupta, Akshit Diwan, and Arpit Jain
+- Our team: Vandit Gupta, Akshit Diwan, Arpit Jain, and Chaitanya Chadha
 - All contributors and supporters of the Yotube Views Predictor project
 
 ## Contact
 
-For any inquiries or contributions, please contact us at [gupta.vandi@northeastern.edu](mailto:gupta.vandi@northeastern.edu) or [akshitdiwan05@gmail.com](mailto:akshitdiwan05@gmail.com) or [arpit.arpit.jain5@gmail.com](mailto:arpit.jain5@gmail.com)
+For any inquiries or contributions, please contact us at [gupta.vandi@northeastern.edu](mailto:gupta.vandi@northeastern.edu) or [akshitdiwan05@gmail.com](mailto:akshitdiwan05@gmail.com) or [arpit.arpit.jain5@gmail.com](mailto:arpit.jain5@gmail.com) or [chaitanya.chadha@gwu.edu](mailto:chaitanya.chadha@gwu.edu)
